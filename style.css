@@ -1,0 +1,48 @@
+body {
+    background-color: #1A1A1A;
+}
+
+.navbar-brand-custom {
+    width: 60px;
+}
+
+.banner-title {
+    color: #00FFFF;
+}
+
+.social-icon {
+    font-size: 22px;
+}
+
+.portfolio-title {
+    color: #00FFFF;
+}
+
+.portfolio-info {
+    color: #FFFFFF;
+    list-style: circle;
+}
+
+.contact-name, .contact-email {
+    height: 50px;
+    color: #fff;
+    padding: 0 10px;
+}
+
+.contact-message {
+    /* border-top: none; */
+    box-shadow: 1px 1px 1px gray;
+    border-color: rgba(128, 128, 128, 0.219);
+}
+
+.contact-btn {
+    padding: 20px 200px;
+}
+
+.box-shadow-custom {
+    box-shadow: 6px 6px 6px gray;
+}
+
+hr {
+    color: #fff;
+}
